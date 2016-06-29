@@ -1,2 +1,2 @@
 # antisprint
-this is my antisprint repo
+this is my antisprint repo on the anti-sprint challenge
